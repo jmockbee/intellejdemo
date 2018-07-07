@@ -22,6 +22,12 @@ public class Main {
         // look in version control window see one file changed then right click
 
 
+        // to pull a remote repo copy clone url
+        //vcs  git remote and add remote
+        // llok at context menu bottom right corner make sure ok
+        // vcs git and fetch
+
+
 
 
     }
